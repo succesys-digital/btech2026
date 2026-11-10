@@ -8,7 +8,7 @@ web
 
 ## Stack
 
-Static single-file HTML with inline CSS and minimal JS (set by the user's brief). Only external resource: Google Fonts (Outfit).
+Static single-file HTML with inline CSS and minimal JS (set by the user's brief). Only external resource: Google Fonts (Poppins).
 
 ## Users
 
@@ -32,11 +32,12 @@ B-tech sells smart business cards with NFC and QR Code. Tap the card on a phone 
 
 ## Brand Commitments
 
-Source: `brand-btech-v2/` (identity v2, direction C "Bordô & Marfim", November 2026). Replaces the v1 navy guide.
-- Logo files only (`brand-btech-v2/02-logo/svg/`): bordô on light, marfim on bordô/black; never redraw, recolor, shadow or gradient; min 96px wide. Running text writes "B-tech".
-- Colors: bordô #4A1628 (logo, headings, buttons, highlight sections), marfim #F6F1E9 (background), tinta #25171B (body text), grafite #5F5154 (secondary text), rosé #EBC3C8 (decorative only, never text on light), card black #0B0B0C (card mockups only), WhatsApp green #1B8247 (WhatsApp button only).
-- Outfit 300-700 (tabular numbers on prices). Poppins lives only inside the logo. Card layout: front = client logo centred; back = QR top-left, B-TECH top-right, name bottom-left.
-- Signature: three thin concentric blush arcs from one corner (max one per section); short blush rule above section titles. Radii: buttons 8px, cards 12px, card mockup 20px. No colored gradients, neon, emoji icons, heavy shadows.
+Source: identity v1 navy guide (`brand-btech-v2/_source/guia-v1.pdf`, October 2026). The client asked to return to it on 2026-11-10 after trying v2 (bordô & marfim).
+- Logo files only (`brand-btech-v2/_source/logo-btech-v1-navy.svg` on light, `logo-btech-v1-offwhite.svg` on navy or black); never redraw, recolor, shadow or gradient; min 96px wide. Running text writes "B-tech".
+- Colors: navy #0D2540 (header, hero, pricing band, footer, headings, text), off-white #F4EFEA (page background, text on navy), cinza #4A5261 (secondary text), blush #EBC3C8 (decorative only, never text on light), card black #0B0B0C (card mockups only), WhatsApp green #1B8247 (WhatsApp button only).
+- Poppins 400-700 everywhere (tabular numbers on prices).
+- Card layout: front = client logo centred; back = QR top-left, B-TECH top-right, name bottom-left.
+- Premium direction: one big moment (navy hero with oversized headline and the lit card mockup). No uppercase eyebrow labels, no blush rule above every title, arcs used once (hero stage), no scroll-reveal animations, no middle-dot separators.
 - Voice: Brazilian Portuguese, direct and close, "você", short sentences, benefit before technology. CTAs: "Quero meu cartão", "Me chama no WhatsApp".
 - Contact: Instagram @btech.card, WhatsApp (13) 99165-7810.
 
