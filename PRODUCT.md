@@ -8,7 +8,7 @@ web
 
 ## Stack
 
-Static single-file HTML with inline CSS and minimal JS (set by the user's brief). Only external resource: Google Fonts (Poppins).
+Static single-file HTML with inline CSS and minimal JS (set by the user's brief). Only external resource: Google Fonts (Outfit).
 
 ## Users
 
@@ -32,10 +32,10 @@ B-tech sells smart business cards with NFC and QR Code. Tap the card on a phone 
 
 ## Brand Commitments
 
-Source: `Guia de Identidade Visual B-tech.pdf` (October 2026) and the two logo SVGs (navy, off-white).
-- Logo files only; navy on light, off-white on navy/black; never redraw, recolor, shadow or gradient; min 96px wide. Running text writes "B-tech".
-- Colors: navy #0D2540, blush #EBC3C8 (decorative only, never text on light), off-white #F4EFEA, gray text #4A5261, card black #0B0B0C (card mockups only), WhatsApp green #1E8E4E (WhatsApp button only).
-- Poppins 400/500/600/700 only. The old near-black + cyan #45E9DA + Space Grotesk/Inter/IBM Plex Mono identity is retired.
+Source: `brand-btech-v2/` (identity v2, direction C "Bordô & Marfim", November 2026). Replaces the v1 navy guide.
+- Logo files only (`brand-btech-v2/02-logo/svg/`): bordô on light, marfim on bordô/black; never redraw, recolor, shadow or gradient; min 96px wide. Running text writes "B-tech".
+- Colors: bordô #4A1628 (logo, headings, buttons, highlight sections), marfim #F6F1E9 (background), tinta #25171B (body text), grafite #5F5154 (secondary text), rosé #EBC3C8 (decorative only, never text on light), card black #0B0B0C (card mockups only), WhatsApp green #1B8247 (WhatsApp button only).
+- Outfit 300-700 (tabular numbers on prices). Poppins lives only inside the logo. Card layout: front = client logo centred; back = QR top-left, B-TECH top-right, name bottom-left.
 - Signature: three thin concentric blush arcs from one corner (max one per section); short blush rule above section titles. Radii: buttons 8px, cards 12px, card mockup 20px. No colored gradients, neon, emoji icons, heavy shadows.
 - Voice: Brazilian Portuguese, direct and close, "você", short sentences, benefit before technology. CTAs: "Quero meu cartão", "Me chama no WhatsApp".
 - Contact: Instagram @btech.card, WhatsApp (13) 99165-7810.
